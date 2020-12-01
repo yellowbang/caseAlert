@@ -1,0 +1,9 @@
+# Ignore everything not required for build
+*
+
+# App files
+!src
+!.eslintrc.js
+!.prettierrc
+!package*.json
+!tsconfig*.json
